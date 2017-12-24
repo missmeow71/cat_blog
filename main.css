@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+  h1 {
+  color: white;
+  font-family: 'optima bold';
+  font-size: 50px
+}
+p {
+  font-size: 20px
+}
+  h2 {
+    color: white;
+    font-family: 'optima bold';
+    font-size: 35px
+}
+  h3 {
+    font-size: 30px
+  }
